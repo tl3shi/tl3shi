@@ -1,29 +1,33 @@
-<section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com" style="padding: 0 10px; line-height: 1.6; word-spacing: 0px; word-break: break-word; word-wrap: break-word; text-align: left; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 15px; letter-spacing: 0.05em; color: #595959;"><h2 data-tool="mdnice编辑器" style="margin-top: 30px; min-height: 32px; line-height: 28px; border-bottom: solid 1px #000000; color: #773098; display: inline-block; border-bottom-width: 1px; border-bottom-style: solid; border-color: #773098; padding-top: 5px; padding-right: 0.5em; padding-left: 0.5em; margin-bottom: -3px; font-size: 22px; margin: 1em auto; padding: 0.5em 0; text-align: center; width: 85%; font-weight: bold; display: flex; flex-direction: column; justify-content: center;"><span class="prefix" style="display: none;"></span><span class="content">关于我</span><span class="suffix"></span></h2>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; line-height: 26px; color: black; margin: 1em 4px;">码农@阿里云，清华学渣，前大疆后端 Leader。公众号『程序猿石头』(ID: <strong style="font-weight: bold; color: #773098;">tangleithu</strong>)号主，公众号用不同的视角分享高质量技术文章，以每篇文章都让人有收获为目的，欢迎关注，交流和指导！</p>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-size: 20px; margin: 1.2em 0 1em; padding: 0; font-weight: bold; color: #773098;"><span class="prefix" style="display: none;"></span><span class="content">教育背景</span><span class="suffix" style="display: none;"></span></h3>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;">本科👉左家垅男子高等职业技术学院(<strong style="font-weight: bold; color: #773098;">CSU</strong>) @长沙</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;">硕士👉五道口职业技术学校(<strong style="font-weight: bold; color: #773098;">THU</strong>) @北京</section></li></ul>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-size: 20px; margin: 1.2em 0 1em; padding: 0; font-weight: bold; color: #773098;"><span class="prefix" style="display: none;"></span><span class="content">工作经历</span><span class="suffix" style="display: none;"></span></h3>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;">④阿里云</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;">③大疆创新</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;">②宜信大数据创新中心</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;">①实习：腾讯、友盟</section></li></ul>
-<!-- 
-- ![阿里云](https://imgkr.cn-bj.ufileos.com/47807ee4-0e5e-4d04-b767-ab68892b9329.png)
+## 关于我
 
-- ![大疆创新 DJI](https://imgkr.cn-bj.ufileos.com/9d2bbd06-4e2d-4f64-a86c-1f6f65399703.png)
+码农@阿里云，清华学渣，前大疆后端 Leader。公众号『程序猿石头』(ID: **tangleithu**)号主，公众号用不同的视角分享高质量技术文章，以每篇文章都让人有收获为目的，欢迎关注，交流和指导！
 
-- ![宜信](https://imgkr.cn-bj.ufileos.com/19c3c48f-d7ba-47e6-8a62-d2f277582553.png)
+### 教育背景
 
-- ![腾讯（实习）](https://imgkr.cn-bj.ufileos.com/033a7b93-9272-4fa0-b2e4-d00500e06af2.png)
--->
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-size: 20px; margin: 1.2em 0 1em; padding: 0; font-weight: bold; color: #773098;"><span class="prefix" style="display: none;"></span><span class="content">联系我</span><span class="suffix" style="display: none;"></span></h3>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;"><p style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; line-height: 26px; color: black; margin: 1em 4px;">个人博客： <a href="https://www.tanglei.name/about/" style="text-decoration: none; word-wrap: break-word; font-weight: bold; color: #773098; border-bottom: 1px solid #773098;">www.tanglei.name</a></p>
-</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;"><p style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; line-height: 26px; color: black; margin: 1em 4px;">欢迎关注我的 微信公众号&amp;视频号:</p>
-</section></li></ul>
-<figure data-tool="mdnice编辑器" style="margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;"><img src="https://imgkr.cn-bj.ufileos.com/973a4bcd-c8db-4393-a280-03a21b81c552.png" alt style="display: block; margin: 0 auto; max-width: 100%;"></figure>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; margin: 10px 0;">也欢迎添加我的个人微信交流指导:</section></li></ul>
-<img width="480" src="https://imgkr.cn-bj.ufileos.com/eee8baf5-f39c-4c5b-a968-88b0367342db.png" data-tool="mdnice编辑器" style="display: block; margin: 0 auto; max-width: 100%;">
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; min-height: 32px; line-height: 28px; border-bottom: solid 1px #000000; color: #773098; display: inline-block; border-bottom-width: 1px; border-bottom-style: solid; border-color: #773098; padding-top: 5px; padding-right: 0.5em; padding-left: 0.5em; margin-bottom: -3px; font-size: 22px; margin: 1em auto; padding: 0.5em 0; text-align: center; width: 85%; font-weight: bold; display: flex; flex-direction: column; justify-content: center;"><span class="prefix" style="display: none;"></span><span class="content">About Me</span><span class="suffix"></span></h2>
-<pre class="custom" data-tool="mdnice编辑器" style="margin-top: 10px; margin-bottom: 10px; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px;"><span style="display: block; background: url(https://imgkr.cn-bj.ufileos.com/97e4eed2-a992-4976-acf0-ccb6fb34d308.png); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #f8f8f8; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;"></span><code class="hljs" style="overflow-x: auto; padding: 16px; color: #333; display: -webkit-box; font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; font-size: 12px; -webkit-overflow-scrolling: touch; padding-top: 15px; background: #f8f8f8; border-radius: 5px;"><span class="hljs-comment" style="color: #998; font-style: italic; line-height: 26px;">//&nbsp;TODO</span><br>Hello,&nbsp;World&nbsp;!<br></code></pre>
-</section>
+- 本科👉左家垅男子高等职业技术学院(**CSU**) @长沙 
+- 硕士👉五道口职业技术学校(**THU**) @北京
+
+### 工作经历
+
+- ④阿里云
+- ③大疆创新
+- ②宜信大数据创新中心
+- ①实习：腾讯、友盟
+
+### 联系我
+
+- 个人博客： [www.tanglei.name](https://www.tanglei.name/about/)
+- 欢迎关注我的 微信公众号&视频号: 
+
+![](https://imgkr.cn-bj.ufileos.com/973a4bcd-c8db-4393-a280-03a21b81c552.png)
+
+- 也欢迎添加我的个人微信交流指导: 
+
+<img width="300" src="https://imgkr.cn-bj.ufileos.com/eee8baf5-f39c-4c5b-a968-88b0367342db.png"/>
+
+## About Me
+
+```java
+// TODO
+Hello, World !
+```
