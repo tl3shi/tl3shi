@@ -18,7 +18,8 @@
 - 个人博客：[https://www.tanglei.name](https://www.tanglei.name/about/)
 - 个人微信：<a href="https://imgkr.cn-bj.ufileos.com/eee8baf5-f39c-4c5b-a968-88b0367342db.png">codershitou(点我扫码，欢迎交流，指导！)</a>
 - 微信公众号&视频号: 
-<img width="300" src="./tangleithu-wechat-video-qrcodes.png"/>
+
+<img width="300" src="https://imgkr.cn-bj.ufileos.com/973a4bcd-c8db-4393-a280-03a21b81c552.png"/>
 
 -----
 
