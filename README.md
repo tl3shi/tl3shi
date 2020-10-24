@@ -27,7 +27,7 @@
 
 陆陆续续写了不少原创文章，每一篇都花了不少的时间和精力，当然也受到了很多读者和号主的认可，例如下面部分文章受到不少号主的认可和转载。
 
-<img width="300" src="http://www.tanglei.name/resources/to-tangleithu/tangleithu-zz.jpg"/>
+<img width="500" src="http://www.tanglei.name/resources/to-tangleithu/tangleithu-zz.jpg"/>
 
 - [面试 Google, 我失败了 | Google 面经分享](http://mp.weixin.qq.com/s?__biz=MzI3OTUzMzcwNw==&mid=2247483912&idx=1&sn=520bbca6a2056ab4df6b0e1d0ebaf6e0&chksm=eb4703ecdc308afa83b288b1469f0927c1916189f219ee5e8c3c5194defc0b8f313ff7607730&scene=21#wechat_redirect)
 - [从一道面试题谈谈一线大厂码农应该具备的基本能力](http://mp.weixin.qq.com/s?__biz=MzI3OTUzMzcwNw==&mid=2247484698&idx=1&sn=03cc4636e7ee7364a85788a98809cc03&chksm=eb4704fedc308de8efd48ab9aed4fd1ddee5665d8e76d0d3767c1f704eac8b15a83e450a08f1&scene=21#wechat_redirect)
@@ -40,7 +40,7 @@
 
 ### 阿里公开技术资料
 
-<img width="300" src="http://www.tanglei.name/resources/to-tangleithu/ali-open-resource.jpg"/>
+<img width="500" src="http://www.tanglei.name/resources/to-tangleithu/ali-open-resource.jpg"/>
 
 以上材料，阿里公开的技术资料，扫码回复【0】送给你。
 
